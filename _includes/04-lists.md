@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+Things I enjoy
+
+* Travelling
+* Gym
+* Esports
+* Web development
+  * Web design
+  * Wordpress
+  * Graphic design
+  * Coding
+  * SEO
